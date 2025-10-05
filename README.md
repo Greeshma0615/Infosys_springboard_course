@@ -17,10 +17,6 @@ You can either **fork** or **clone** this repository to start practicing:
 ### 1️⃣ Fork the Repo
 Click the **Fork** button (top right of this page) to make a copy of this repo under your GitHub account.  
 
-### 2️⃣ Clone the Repo
-```bash
-git clone https://github.com/Yash-Karande/Infosys_Springboard_Codes.git
-```
 
 ### 3️⃣ Open in IDE
 You can open the project in your favorite IDE (Eclipse / IntelliJ IDEA / VS Code with Java extensions).  
@@ -82,8 +78,8 @@ If you find this repository helpful:
 - Give it a ⭐ on GitHub!  
 - Share it with fellow learners.  
 
----
 
-## 📬 Contact
 
-If you have any queries or suggestions, feel free to reach out via **GitHub Issues** or [📧 Email Me](yash.2406527108@vcet.edu.in).
+
+
+
